@@ -10,3 +10,5 @@ In this portfolio, you’ll find my personal projects that showcase my skills in
 # How it looks 📷
 ## Home Tab -
 ![image](https://github.com/user-attachments/assets/b1be0afd-100e-4578-836d-8a03f8a464cd)
+
+## Projects Tab -
