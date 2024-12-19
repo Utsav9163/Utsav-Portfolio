@@ -34,3 +34,4 @@ or
 * CSS
 * JAVASCRIPT
 * SCSS
+This is my Fourth independent project creating a Responsive Website.
