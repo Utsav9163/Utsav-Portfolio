@@ -16,3 +16,6 @@ In this portfolio, you’ll find my personal projects that showcase my skills in
 
 <br>
 It consists of sections like home, about, resume, projects, contact.
+* A header section with the logo and navbar.
+* A Landing page.
+* An About section.
