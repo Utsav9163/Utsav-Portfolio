@@ -44,3 +44,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
     <a href="https://www.linkedin.com/in/utsav-kumar-gupta-3986a228a" target="_blank">LinkedIn</a>
   </p>
 
+ <p align="center">
+    <a href="https://www.instagram.com/___.unconscious.___" target="_blank">Instagram</a>
+  </p>
+ 
