@@ -15,3 +15,4 @@ In this portfolio, you’ll find my personal projects that showcase my skills in
 ![img22](https://github.com/user-attachments/assets/b0309e22-ae1a-4246-b77d-87da46f31cab)
 
 <br>
+It consists of sections like home, about, gallery, blog, contact, finally about the Portfolio website and the pictures uploaded in G-drive followed by quick links of the page and social media links of the Person.
