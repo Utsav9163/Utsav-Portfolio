@@ -30,3 +30,7 @@ or
 *[ copy the link ](https://utsav-portfolio-ten.vercel.app/) paste it to your browser and load it.
 
 # 🛠 Built With
+* HTML
+* CSS
+* JAVASCRIPT
+* SCSS
