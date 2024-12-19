@@ -19,3 +19,8 @@ It consists of sections like home, about, resume, projects, contact.
 * A header section with the logo and navbar.
 * A Landing page.
 * An About section.
+* A resume and projects section followed by quick links.
+* A footer section.
+* Developed first with the Mobile First methodology, then for desktop.
+* Compatible with all mobile devices and with a beautiful and pleasant user interface.
+
