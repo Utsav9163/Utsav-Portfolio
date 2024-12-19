@@ -24,3 +24,8 @@ It consists of sections like home, about, resume, projects, contact.
 * Developed first with the Mobile First methodology, then for desktop.
 * Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
+To view the website, 
+* click [Utsav-Portfolio](https://utsav-portfolio-ten.vercel.app/)
+or 
+*[ copy the link ](https://utsav-portfolio-ten.vercel.app/) paste it to your browser and load it.
+
