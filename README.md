@@ -39,3 +39,8 @@ This is my Fourth independent project creating a Responsive Website.
 # 🤝 Contributing 
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](/issues).
+
+ <p align="center">
+    <a href="https://www.linkedin.com/in/utsav-kumar-gupta-3986a228a" target="_blank">LinkedIn</a>
+  </p>
+
